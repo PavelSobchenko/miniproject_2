@@ -2752,10 +2752,8 @@ CONFIG_LOG_TAG_LEVEL_IMPL_CACHE_SIZE=31
 # Format
 #
 # default:
-# CONFIG_LOG_COLORS is not set
-# default:
+CONFIG_LOG_COLORS=y
 CONFIG_LOG_TIMESTAMP_SOURCE_RTOS=y
-# default:
 # CONFIG_LOG_TIMESTAMP_SOURCE_SYSTEM is not set
 # end of Format
 
